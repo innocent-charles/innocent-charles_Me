@@ -14,7 +14,16 @@
 
 
 <p align="center">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=innocoder-official&hide=html" alt="Github Stats" />
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=innocoder-official&hide=html&layout=compact&theme=tokyonight" alt="Github Stats" />
 </p>
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=innocoder-official&count_private=true&show_icons=true&theme=tokyonight" /></p>
+
+
+<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=innocoder-official&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" /></p>
+
+
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github 😆
+
+
+
+
 
