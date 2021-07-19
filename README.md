@@ -10,7 +10,8 @@
 - [Zindi Africa](https://zindi.africa/users/XVIII_6)
 - [LinkedIn](https://www.linkedin.com/in/innocent-charles-329194214/) 👨💼
 - [Email](mailto:innocentcharles217@gmail.com): innocentcharles217@gmail.com
-- [Others](http://myurls.co/innocentcharles__): 
+- [Articles Writer](https://medium.com/@innocentcharles_)
+- [Others](http://myurls.co/innocentcharles__):
 
 
 <p align="center">
