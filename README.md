@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=innocoder-official&hide=html&layout=compact&theme=tokyonight" alt="Github Stats" />
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=innocoder-official&hide=html&layout=compact&theme=tokyonight" alt="Github Stats" />
 </p>
 
 
