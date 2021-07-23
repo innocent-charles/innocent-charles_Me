@@ -14,21 +14,16 @@
 - [Articles Writer](https://medium.com/@innocentcharles_)
 - [Others](http://myurls.co/innocentcharles__):
 
-
-
-
-
-
+<!--Here is the codes for the most used language -->
 <p align="center">
   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=innocoder-official&theme=tokyonight" alt="Github Stats" />
 </p>
-
-
-
+<!--Here is the codes for the innocent'git status-->
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=innocoder-official&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" /></p>
 
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github 😆
+
 
 <table border="0" cellspacing="0" cellpadding="0" allign="center">
   <tbody>
@@ -62,16 +57,16 @@
           <img src="https://images.squarespace-cdn.com/content/5c9b21c1e666692d1b33460b/1557409975418-CRFDZ3MOM347RNLL2C33/quarkus-logo-large.jpg?content-type=image%2Fjpeg" alt="Spring" width="70" height="70"/>
         </a>
       </td>
-      <td align="center">
-        <a href="https://www.oracle.com/uk/database/technologies/">
-          <img src="https://pbs.twimg.com/profile_images/1171452654112755712/MW0_-kQQ.jpg" alt="Oracle Database" width="70" height="70"/>
+     <td align="center">
+        <a href="https://aws.amazon.com/">
+          <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="aws" width="70" height="70"/>
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <a href="https://aws.amazon.com/">
-          <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="aws" width="70" height="70"/>
+        <a href="https://www.oracle.com/uk/database/technologies/">
+          <img src="https://pbs.twimg.com/profile_images/1171452654112755712/MW0_-kQQ.jpg" alt="Oracle Database" width="70" height="70"/>
         </a>
       </td>
       <td align="center">
@@ -91,9 +86,9 @@
           <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" width="70" height="70"/>
         </a>
       </td>
-      <td align="center">
-        <a href="https://www.python.org/">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" alt="Python" width="70" height="70"/> 
+     <td align="center">
+        <a href="https://www.elastic.co/">
+          <img src="https://mms.businesswire.com/media/20210107005214/en/712541/5/elastic-logo-V-full_color.jpg" alt="ELK Stack" width="70" height="70"/>
         </a>
       </td>
       <td align="center">
@@ -118,9 +113,9 @@
           <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="70" height="70"/>
         </a>
       </td>
-      <td align="center">
-        <a href="https://en.wikipedia.org/wiki/CSS">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS css3" width="70" height="70"/>
+       <td align="center">
+        <a href="https://www.docker.com/">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="docker" width="70" height="70"/>
         </a>
       </td>
       <td align="center">
@@ -135,11 +130,11 @@
       </td>
     </tr>
     <tr>
-      <td align="center">
-        <a href="https://www.docker.com/">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="docker" width="70" height="70"/>
+     <td align="center">
+        <a href="https://en.wikipedia.org/wiki/CSS">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS css3" width="70" height="70"/>
         </a>
-      </td>
+      </td>       
       <td align="center">
         <a href="https://kubernetes.io/">
           <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="Kubernetes" width="70" height="70"/>
@@ -171,35 +166,41 @@
         <a href="https://spark.apache.org/">
           <img src="https://www.onlinebooksreview.com/uploads/blog_images/2017/11/27_file.png" alt="Apache Spark" width="70" height="70"/>
         </a>
-      </td>
-			<td align="center">
-        <a href="https://www.elastic.co/">
-          <img src="https://mms.businesswire.com/media/20210107005214/en/712541/5/elastic-logo-V-full_color.jpg" alt="ELK Stack" width="70" height="70"/>
+      </td>   
+      <td align="center">
+        <a href="https://www.python.org/">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" alt="Python" width="70" height="70"/> 
         </a>
-      </td>
+      </td>   
       <td align="center">
         <a href="https://en.wikipedia.org/wiki/Linux">
           <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="linux" width="70" height="70"/>
         </a>
       </td>
-      <td align="center"></td>
+      <td align="center">
+	  <a href="https://en.wikipedia.org/wiki/Flutter_(software)">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Google-flutter-logo.svg" alt="linux" width="70" height="70"/>
+	    </td>
       <td align="center"></td>
       <td align="center"></td>
     </tr>
     <tr>
-      <td align="center" colspan="6"><b><i>*In no particular order</i></b>.</td>
+   <td align="center">
+	 <a href="https://en.wikipedia.org/wiki/C%2B%2B">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="70" height="70"/>
+      </td>
+  <td align="center">
+     <a href="https://en.wikipedia.org/wiki/Dart_(programming_language)">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Dart_programming_language_logo.svg" alt="Dart" width="70" height="70"/>
+	    </td>
+   <td align="center">
+	 <a href="https://en.wikipedia.org/wiki/Android_Studio">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Android_Studio_Icon_%282014-2019%29.svg" alt="Android Studio" width="70" height="70"/>
+      </td>
+   <td align="center"></td>
+   <td align="center"></td>
+   <td align="center"></td>
     </tr>
   </tbody>
 </table>
-
----
-
-***"You need to rescue the princess with code - but sometimes your code doesn't work and the princess is a dragon and you're a fish. Welcome to programming:"*** - <https://toggl.com/programming-princess/>
-
----
-
-
-
-
-
 
