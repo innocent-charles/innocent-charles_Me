@@ -28,7 +28,7 @@
 <table border="0" cellspacing="0" cellpadding="0" allign="center">
   <tbody>
     <tr>
-      <th colspan="3">MY CURRENT AND ALL TIME STACK 🧑‍💻</th>
+      <th colspan="3" >MY CURRENT AND ALL TIME STACK 🧑‍💻</th>
     </tr>
     <tr>
       <td align="center">
