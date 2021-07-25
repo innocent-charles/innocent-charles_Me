@@ -167,8 +167,8 @@
   </tr>
  <tr>
  <td align="center">
-        <a href="https://kubernetes.io/">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="Kubernetes" width="70" height="70"/>
+        <a href="https://en.wikipedia.org/wiki/Apache_Kafka">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" alt="Kubernetes" width="70" height="70"/>
         </a>
       </td> 
 
