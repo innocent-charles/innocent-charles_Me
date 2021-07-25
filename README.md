@@ -29,7 +29,7 @@
 <table border="0" cellspacing="0" cellpadding="0" allign="center">
   <tbody>
     <tr>
-      <th colspan="3" >MY CURRENT AND ALL TIME STACK 🧑‍💻</th>
+      <th colspan="9" >MY CURRENT AND ALL TIME STACK 🧑‍💻</th>
     </tr>
     <tr>
       <td align="center">
@@ -46,10 +46,8 @@
         <a href="https://www.scala-lang.org/">
           <img src="https://www.scala-lang.org/resources/img/frontpage/scala-spiral.png" alt="Scala" width="70" height="70"/>
         </a>
-      </td>   
-    </tr>
-    <tr>
-      <td align="center">
+      </td>  
+    <td align="center">
 	 <a href="https://en.wikipedia.org/wiki/C%2B%2B">
             <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="70" height="70"/>
       </td>        
@@ -63,8 +61,6 @@
           <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" width="70" height="70"/>
         </a>
       </td>
-    </tr>
-    <tr>  
       <td align="center">
      <a href="https://en.wikipedia.org/wiki/Dart_(programming_language)">
             <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Dart_programming_language_logo.svg" alt="Dart" width="70" height="70"/>
@@ -78,7 +74,7 @@
         <a href="https://en.wikipedia.org/wiki/PHP">
           <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="HTML5" width="70" height="70"/>
         </a>
-      </td>      
+      </td>   
     </tr>
     <tr>
      <td align="center">
@@ -96,8 +92,6 @@
           <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Heroku" width="70" height="70"/>
         </a>
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <a href="https://en.wikipedia.org/wiki/PostgreSQL">
           <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="Apache Spark" width="70" height="70"/>
@@ -115,9 +109,7 @@
           <img src="https://pbs.twimg.com/profile_images/1171452654112755712/MW0_-kQQ.jpg" alt="Oracle Database" width="70" height="70"/>
         </a>
       </td>
-    </tr>
-    <tr>
-   <td align="center">
+    <td align="center">
 	  <a href="https://en.wikipedia.org/wiki/Flutter_(software)">
             <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Google-flutter-logo.svg" alt="linux" width="70" height="70"/>
 	    </td>
@@ -129,7 +121,7 @@
         <a href="https://en.wikipedia.org/wiki/Visual_Studio_Code">
           <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="linux" width="70" height="70"/>
         </a>
-      </td>   
+      </td> 
     </tr>
     <tr>
       <td align="center">
@@ -147,8 +139,6 @@
           <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Font_Awesome_5_brands_github.svg" alt="git" width="70" height="70"/>
         </a>
       </td>
-   </tr>
-  <tr>
    <td align="center">
         <a href="https://aws.amazon.com/">
           <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="aws" width="70" height="70"/>
@@ -164,9 +154,7 @@
           <img src="https://www.onlinebooksreview.com/uploads/blog_images/2017/11/27_file.png" alt="Apache Spark" width="70" height="70"/>
         </a>
       </td> 
-  </tr>
- <tr>
- <td align="center">
+  <td align="center">
         <a href="https://en.wikipedia.org/wiki/Apache_Kafka">
           <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" alt="Kubernetes" width="70" height="70"/>
         </a>
@@ -182,7 +170,7 @@
           <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="docker" width="70" height="70"/>
         </a>
       </td>
- </tr>
+   </tr>
 <tr>
  <td align="center">
         <a href="https://en.wikipedia.org/wiki/TensorFlow">
@@ -199,9 +187,7 @@
           <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/PyTorch_logo_black.svg" alt="Heroku" width="70" height="70"/>
         </a>
       </td>
- </tr>
-  <tr>
-   <td align="center">
+ <td align="center">
         <a href="https://en.wikipedia.org/wiki/Scikit-learn">
           <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="mongoDB" width="70" height="70"/>
         </a>
@@ -216,7 +202,7 @@
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/1200px-Cassandra_logo.svg.png" alt="Oracle Database" width="70" height="70"/>
         </a>
       </td>
-  </tr>
+ </tr>
   </tbody>
 </table>
 
