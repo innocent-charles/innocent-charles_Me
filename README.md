@@ -54,8 +54,8 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="70" height="70"/>
       </td>        
        <td align="center">
-        <a href="https://en.wikipedia.org/wiki/JavaScript">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript"             width="70" height="70"/>
+        <a href="https://en.wikibooks.org/wiki/R_Programming">
+          <img src="https://www.r-project.org/logo/Rlogo.svg" alt="JavaScript"             width="70" height="70"/>
         </a>
       </td>          
       <td align="center">
