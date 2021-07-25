@@ -125,22 +125,22 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Android_Studio_Icon_%282014-2019%29.svg" alt="Android Studio" width="70" height="70"/>
       </td>
      <td align="center">
-        <a href="https://en.wikipedia.org/wiki/Linux">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="linux" width="70" height="70"/>
+        <a href="https://en.wikipedia.org/wiki/Visual_Studio_Code">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="linux" width="70" height="70"/>
         </a>
       </td>   
     </tr>
     <tr>
-     <td align="center">
-        <a href="https://kubernetes.io/">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="Kubernetes" width="70" height="70"/>
+      <td align="center">
+        <a href="https://en.wikipedia.org/wiki/Git">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="linux" width="70" height="70"/>
         </a>
-      </td>
-  <td align="center">
-        <a href="https://www.heroku.com/">
-          <img src="https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco/v1491420676/cenlvst0fgs8ejx12n8u.png" alt="Heroku" width="70" height="70"/>
+      </td>   
+    <td align="center">
+        <a href="https://en.wikipedia.org/wiki/Linux">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="linux" width="70" height="70"/>
         </a>
-      </td>
+      </td>       
    <td align="center">
         <a href="https://github.com/">
           <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Font_Awesome_5_brands_github.svg" alt="git" width="70" height="70"/>
@@ -164,7 +164,47 @@
         </a>
       </td> 
   </tr>
+ <tr>
+ <td align="center">
+        <a href="https://kubernetes.io/">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="Kubernetes" width="70" height="70"/>
+        </a>
+      </td> 
+
+<td align="center">
+        <a href="https://www.heroku.com/">
+          <img src="https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco/v1491420676/cenlvst0fgs8ejx12n8u.png" alt="Heroku" width="70" height="70"/>
+        </a>
+      </td>
+    <td align="center">
+        <a href="https://www.docker.com/">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="docker" width="70" height="70"/>
+        </a>
+      </td>
+ </tr>
+<tr>
+ <td align="center">
+        <a href="https://en.wikipedia.org/wiki/TensorFlow">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/TensorFlowLogo.svg" alt="Kubernetes" width="70" height="70"/>
+        </a>
+      </td> 
+<td align="center">
+        <a href="https://en.wikipedia.org/wiki/Keras">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Heroku" width="70" height="70"/>
+        </a>
+      </td>
+<td align="center">
+        <a href="https://en.wikipedia.org/wiki/PyTorch">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/PyTorch_logo_black.svg" alt="Heroku" width="70" height="70"/>
+        </a>
+      </td>
+ </tr>
   <tr>
+   <td align="center">
+        <a href="https://en.wikipedia.org/wiki/Scikit-learn">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="mongoDB" width="70" height="70"/>
+        </a>
+      </td>
    <td align="center">
         <a href="https://www.mongodb.com/">
           <img src="https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg" alt="mongoDB" width="70" height="70"/>
@@ -175,7 +215,8 @@
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/1200px-Cassandra_logo.svg.png" alt="Oracle Database" width="70" height="70"/>
         </a>
       </td>
-      <td align="center"></td>
   </tr>
   </tbody>
 </table>
+
+
