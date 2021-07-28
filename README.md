@@ -12,8 +12,8 @@
 - [LinkedIn](https://www.linkedin.com/in/innocent-charles-329194214/) 👨💼
 - [Email](mailto:innocentcharles217@gmail.com): innocentcharles217@gmail.com
 - [Techdealers Software Company](https://techdealers.co.tz/)
-- [Articles Writer](https://medium.com/@innocentcharles_)
-- [Others](http://myurls.co/innocentcharles__):
+<!--- [Articles Writer](https://medium.com/@innocentcharles_)-->
+<!--- [Others](http://myurls.co/innocentcharles__): -->
 
 <!--Here is the codes for the most used language -->
 <p align="center">
