@@ -13,8 +13,8 @@ of roles as required 💥.
 - [LinkedIn](https://www.linkedin.com/in/innocent-charles-329194214/) 👨💼
 - [Email](mailto:innocentcharles217@gmail.com): innocentcharles217@gmail.com
 - [Techdealers Software Company](https://techdealers.co.tz/)
-<!--- [Articles Writer](https://medium.com/@innocentcharles_)-->
-<!--- [Others](http://myurls.co/innocentcharles__): -->
+- [Articles Writer](https://medium.com/@innocentcharles_)  
+- [Others](http://myurls.co/innocentcharles__): 
 
 <!--Here is the codes for the most used language -->
 <p align="center">
@@ -191,11 +191,6 @@ of roles as required 💥.
  <td align="center">
         <a href="https://en.wikipedia.org/wiki/Scikit-learn">
           <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="mongoDB" width="70" height="70"/>
-        </a>
-      </td>
-   <td align="center">
-        <a href="https://www.mongodb.com/">
-          <img src="https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg" alt="mongoDB" width="70" height="70"/>
         </a>
       </td>
      <td align="center">
