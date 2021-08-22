@@ -1,6 +1,6 @@
 
 <h2 align="center">Hello, My name is Innocent Charles. 🤓 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
-<p align="center">I am  a Software Developer, Data Engineer, Machine Learning practitioner & enthusiast and packaging artist having  a  solid background in Computer Science, Mathematics and Statistics. I am currently pursuing Bachelor degree in Software Engineering. I'm passionate about Artificial Intelligence, Machine Learning, Deep Learning , Big Data and Software Development to solve problems and implement solutions.When I'm not developing and building things, you can find me on Youtube learning, watching movies , Dancing and jogging. But most of my days are spent working on projects while listening to slow background music 😆.
+<p align="center">I am  a Software Developer,Machine Learning Engineer, practitioner & enthusiast having  a  solid background in Computer Science, Mathematics and Statistics. I am currently pursuing Bachelor degree in Software Engineering. I'm passionate about Artificial Intelligence, Machine Learning, Deep Learning , Big Data and Software Development to solve problems and implement solutions.When I'm not developing and building things, you can find me on Youtube learning, watching movies , Dancing and jogging. But most of my days are spent working on projects while listening to slow background music 😆.
 </p>
 
 ![](https://komarev.com/ghpvc/?username=innocoder-official&color=blue)
