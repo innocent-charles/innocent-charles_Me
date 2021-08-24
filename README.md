@@ -10,6 +10,7 @@ of roles as required 💥.
 ### 📫 Where to find me
 - [Zindi Africa](https://zindi.africa/users/XVIII_6)
 - [Kaggle](https://www.kaggle.com/innocoderofficial)
+- [HackerRank](https://www.hackerrank.com/innocentcharles1?hr_r=1)
 - [LinkedIn](https://www.linkedin.com/in/innocent-charles-329194214/) 👨💼
 - [Email](mailto:innocentcharles217@gmail.com): innocentcharles217@gmail.com
 - [Techdealers Software Company](https://techdealers.co.tz/)
