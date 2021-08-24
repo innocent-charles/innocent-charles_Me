@@ -1,6 +1,6 @@
 
 <h2 align="center">Hello, My name is Innocent Charles. 🤓 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
-<p align="center">I am  a Software Developer,Machine Learning Engineer, practitioner & enthusiast having  a  solid background in Computer Science, Mathematics and Statistics. I am currently pursuing Bachelor degree in Software Engineering. I'm passionate about Artificial Intelligence, Machine Learning, Deep Learning , Big Data and Software Development to solve problems and implement excellence solutions.Keen to expand skills and knowledge and prepared to work in a variety
+<p align="center">I am  a Software Developer,Artificial Intelligence Engineer, practitioner & enthusiast having  a  solid background in Computer Science, Mathematics and Statistics. I am currently pursuing Bachelor degree in Software Engineering. I'm passionate about Artificial Intelligence, Machine Learning, Deep Learning , Big Data and Software Development to solve problems and implement excellence solutions.Keen to expand skills and knowledge and prepared to work in a variety
 of roles as required 💥.
 </p>
 
