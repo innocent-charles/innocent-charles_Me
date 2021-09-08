@@ -25,7 +25,6 @@ of roles as required 💥.
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=innocoder-official&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" /></p>
 
 
-* Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github 😆
 
 <!--
 <table border="0" cellspacing="0" cellpadding="0" allign="center">
@@ -217,6 +216,9 @@ of roles as required 💥.
 <p align="center">
 	</a><a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/><a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/><a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
+
+
+* Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github 😆
 
 
 
