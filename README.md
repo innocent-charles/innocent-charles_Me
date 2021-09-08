@@ -25,7 +25,7 @@ of roles as required 💥.
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=innocoder-official&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" /></p>
 
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github 😆
+* Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github 😆
 
 <!--
 <table border="0" cellspacing="0" cellpadding="0" allign="center">
