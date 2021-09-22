@@ -7,16 +7,16 @@ of roles as required 💥.
 ![](https://komarev.com/ghpvc/?username=innocoder-official&color=blue)
 
 
-### 📫 Where to find me
-- [Zindi Africa](https://zindi.africa/users/XVIII_6) ,[Kaggle](https://www.kaggle.com/innocoderofficial)
+<!--### 📫 Where to find me-->
+- [Zindi Africa](https://zindi.africa/users/XVIII_6) ,[Kaggle](https://www.kaggle.com/innocoderofficial),[LinkedIn](https://www.linkedin.com/in/innocent-charles-329194214/),[Email](mailto:innocentcharles217@gmail.com),[Techdealers](https://techdealers.co.tz/),[Others](http://myurls.co/innocentcharles__)
 
-- [HackerRank](https://www.hackerrank.com/innocentcharles1?hr_r=1)
+<!--- [HackerRank](https://www.hackerrank.com/innocentcharles1?hr_r=1)
 - [LinkedIn](https://www.linkedin.com/in/innocent-charles-329194214/) 👨💼
-- [Email](mailto:innocentcharles217@gmail.com): innocentcharles217@gmail.com
-- [Techdealers Software Company](https://techdealers.co.tz/)
+- [Email](mailto:innocentcharles217@gmail.com)
+- [Techdealers](https://techdealers.co.tz/)
 - [Articles Writer](https://medium.com/@innocentcharles_)  
 - [Others](http://myurls.co/innocentcharles__): 
-
+-->
 <!--Here is the codes for the most used language -->
 <p align="center">
   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=innocoder-official&theme=tokyonight" alt="Github Stats" />
