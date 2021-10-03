@@ -8,7 +8,7 @@ of roles as required 💥.
 
 
 <!--### 📫 Where to find me-->
-- [Zindi Africa](https://zindi.africa/users/XVIII_6) ,[Kaggle](https://www.kaggle.com/innocoderofficial),[LinkedIn](https://www.linkedin.com/in/innocent-charles-329194214/),[Email](mailto:innocentcharles217@gmail.com),[Techdealers](https://techdealers.co.tz/),[Others](http://myurls.co/innocentcharles__)
+- [Zindi Africa](https://zindi.africa/users/XVIII_6) ,[Kaggle](https://www.kaggle.com/innocoderofficial),[LinkedIn](https://www.linkedin.com/in/innocent-charles-329194214/),[Email](mailto:innocentcharles217@gmail.com),[Techdealers](https://techdealers.co.tz/),[Portfolio](https://innocentcharles.com)
 
 <!--- [HackerRank](https://www.hackerrank.com/innocentcharles1?hr_r=1)
 - [LinkedIn](https://www.linkedin.com/in/innocent-charles-329194214/) 👨💼
