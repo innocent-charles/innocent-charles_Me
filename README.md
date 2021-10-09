@@ -4,11 +4,18 @@
 of roles as required 💥.
 </p>
 
-![](https://komarev.com/ghpvc/?username=innocoder-official&color=blue)
+![](https://komarev.com/ghpvc/?username=innocoder-official&color=blue) <img align="left" src="https://img.shields.io/github/followers/innocoder-official?label=Followers&style=social" />
 
 
 <!--### 📫 Where to find me-->
 - [Zindi Africa](https://zindi.africa/users/XVIII_6) , [Kaggle](https://www.kaggle.com/innocoderofficial) , [LinkedIn](https://www.linkedin.com/in/innocent-charles-329194214/) , [Portfolio](https://innocentcharles.com)
+
+<h1 align="center">
+<h1 align="center"></h1>
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=innocoder-official&show_icons=true&theme=merko&count_private=true" />
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=innocoder-official&layout=compact&theme=merko&count_private=true" />
+<img height="150px" />
+	
 
 <!--- [HackerRank](https://www.hackerrank.com/innocentcharles1?hr_r=1)
 - [LinkedIn](https://www.linkedin.com/in/innocent-charles-329194214/) 👨💼
@@ -18,11 +25,13 @@ of roles as required 💥.
 - [Others](http://myurls.co/innocentcharles__): 
 -->
 <!--Here is the codes for the most used language -->
+<!--	
 <p align="center">
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=innocoder-official&theme=tokyonight" alt="Github Stats" />
-</p>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=innocoder-official&merko&count_private=true" alt="Github Stats" />
+</p>-->
 <!--Here is the codes for the innocent'git status-->
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=innocoder-official&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" /></p>
+<!--
+<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=innocoder-official&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" /></p> -->
 
 
 
