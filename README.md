@@ -4,14 +4,13 @@
 of roles as required 💥.
 </p>
 
-![](https://komarev.com/ghpvc/?username=innocoder-official&color=blue) <img align="left" src="https://img.shields.io/github/followers/innocoder-official?label=Followers&style=social" />
+![](https://komarev.com/ghpvc/?username=innocoder-official&color=blue) <img align="right" src="https://img.shields.io/github/followers/innocoder-official?label=Followers&style=social" />
 
 
 <!--### 📫 Where to find me-->
 - [Zindi Africa](https://zindi.africa/users/XVIII_6) , [Kaggle](https://www.kaggle.com/innocoderofficial) , [LinkedIn](https://www.linkedin.com/in/innocent-charles-329194214/) , [Portfolio](https://innocentcharles.com)
 
 <h1 align="center">
-<h1 align="center"></h1>
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=innocoder-official&show_icons=true&theme=merko&count_private=true" />
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=innocoder-official&layout=compact&theme=merko&count_private=true" />
 <img height="150px" />
@@ -227,7 +226,7 @@ of roles as required 💥.
 	</a><a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/><a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/><a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 -->
-
+<!--
 
 * Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github 😆
 
@@ -236,7 +235,7 @@ of roles as required 💥.
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
+-->
 
 
 	
