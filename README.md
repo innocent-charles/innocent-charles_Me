@@ -8,7 +8,7 @@ of roles as required 💥.
 
 
 <!--### 📫 Where to find me-->
-- [Zindi Africa](https://zindi.africa/users/The_GOT) , [Kaggle](https://www.kaggle.com/innocoderofficial) , [LinkedIn](https://www.linkedin.com/in/innocent-charles-329194214/) , [Portfolio](https://innocentcharles.com)
+- [Zindi Africa](https://zindi.africa/users/The_GOT) , [Kaggle](https://www.kaggle.com/innocoderofficial/competitions) , [LinkedIn](https://www.linkedin.com/in/innocent-charles-329194214/) , [Portfolio](https://innocentcharles.com)
 
 
 <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=innocoder-official&show_icons=true&theme=merko&count_private=true" />
