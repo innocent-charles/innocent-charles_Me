@@ -1,14 +1,32 @@
-
+<!--
 <h2 align="center">Hello, My name is Innocent Charles. 🤓 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 <p align="center">I am  a Software Developer, Artificial Intelligence Engineer, practitioner & enthusiast having  a  solid background in Computer Science, Mathematics and Statistics. I am currently pursuing Bachelor degree in Software Engineering. I'm passionate about Artificial Intelligence , Big Data and Software Development to solve problems and implement excellence solutions. Keen to expand skills and knowledge and prepared to work in a variety
 of roles as required 💥.
+	
+	-->
+<h2 align="center">Hello, My name is Innocent Charles. 🤓 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
+	
+<p align="center">
+  <a href="https://github.com/innocoder-official"><img src="https://readme-typing-svg.herokuapp.com/?lines=Mobile%20Developer;%20AI%20Engineer;%20Back-End%20Engineer;&font=Teko&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=40%22"></a>
+
+
+<!--### 📫 Where to find me-->
+	
+- [Zindi Africa](https://zindi.africa/users/The_GOT) , [Kaggle](https://www.kaggle.com/innocoderofficial/competitions) , [LinkedIn](https://www.linkedin.com/in/innocent-charles-329194214/) , [Portfolio](https://innocentcharles.com)
+
+
 </p>
+<br />
+
+</p>
+
 
 ![](https://komarev.com/ghpvc/?username=innocoder-official&color=blue) <img align="right" src="https://img.shields.io/github/followers/innocoder-official?label=Followers&style=social" />
 
 
 <!--### 📫 Where to find me-->
-- [Zindi Africa](https://zindi.africa/users/The_GOT) , [Kaggle](https://www.kaggle.com/innocoderofficial/competitions) , [LinkedIn](https://www.linkedin.com/in/innocent-charles-329194214/) , [Portfolio](https://innocentcharles.com)
+<!--
+- [Zindi Africa](https://zindi.africa/users/The_GOT) , [Kaggle](https://www.kaggle.com/innocoderofficial/competitions) , [LinkedIn](https://www.linkedin.com/in/innocent-charles-329194214/) , [Portfolio](https://innocentcharles.com) -->
 
 
 <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=innocoder-official&show_icons=true&hide_border=true&theme=merko&count_private=true" />
