@@ -8,12 +8,12 @@ of roles as required 💥
 - [Zindi Africa](https://zindi.africa/users/The_GOT) , [Kaggle](https://www.kaggle.com/innocoderofficial/competitions) , [LinkedIn](https://www.linkedin.com/in/innocent-charles-329194214/) , [Portfolio](https://innocentcharles.com)
 
 ![](https://komarev.com/ghpvc/?username=innocoder-official&color=blue)<img align="right" src="https://img.shields.io/github/followers/innocoder-official?label=Followers&style=social" />
-
+<!--
 
 <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=innocoder-official&show_icons=true&hide_border=true&theme=merko&count_private=true" />
 <img align="right" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=innocoder-official&layout=compact&hide_border=true&theme=merko&count_private=true"
 <img height="170px" />
-</p>
+</p> -->
 
 
 
