@@ -7,7 +7,7 @@ of roles as required 💥
 - Click [Here to check awesome projects](https://projects.innocentcharles.com/) with my fingerprints.
 	
 <!--### 📫 Where to find me-->
-- [Zindi Africa](https://zindi.africa/users/The_GOT) , [LinkedIn](https://www.linkedin.com/in/innocent-charles-329194214/) , [Portfolio](https://innocentcharles.com)
+- [Zindi Africa](https://zindi.africa/users/The_GOT) , [LinkedIn](https://www.linkedin.com/in/innocent-charles-329194214/) , [Personal website](https://innocentcharles.com)
 
 ![](https://komarev.com/ghpvc/?username=innocoder-official&color=blue)<img align="right" src="https://img.shields.io/github/followers/innocoder-official?label=Followers&style=social" />
 
