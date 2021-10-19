@@ -3,9 +3,11 @@
 <p align="center">
   I am  a Software Developer, Artificial Intelligence Engineer, practitioner & enthusiast having  a  solid background in Computer Science, Mathematics and Statistics. I am currently pursuing Bachelor degree in Software Engineering. I'm passionate about Artificial Intelligence, Big Data and Software Development to solve problems and implement excellence solutions. Keen to expand skills and knowledge and prepared to work in a variety
 of roles as required 💥 
+
+<h4>Check out my  whick has my fingerprint</h4>
 	
 <!--### 📫 Where to find me-->
-- [Zindi Africa](https://zindi.africa/users/The_GOT) , [Kaggle](https://www.kaggle.com/innocoderofficial/competitions) , [LinkedIn](https://www.linkedin.com/in/innocent-charles-329194214/) , [Portfolio](https://innocentcharles.com)
+- [Zindi Africa](https://zindi.africa/users/The_GOT) , [LinkedIn](https://www.linkedin.com/in/innocent-charles-329194214/) , [Portfolio](https://innocentcharles.com)
 
 ![](https://komarev.com/ghpvc/?username=innocoder-official&color=blue)<img align="right" src="https://img.shields.io/github/followers/innocoder-official?label=Followers&style=social" />
 
