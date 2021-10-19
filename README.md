@@ -4,7 +4,7 @@
   I am  a Software Developer, Artificial Intelligence Engineer, practitioner & enthusiast having  a  solid background in Computer Science, Mathematics and Statistics. I am currently pursuing Bachelor degree in Software Engineering. I'm passionate about Artificial Intelligence, Big Data and Software Development to solve problems and implement excellence solutions. Keen to expand skills and knowledge and prepared to work in a variety
 of roles as required 💥 
 
-- Click [Here to check awesome projects](https://projects.innocentcharles.com/) with my fingerprint
+- Click [Here to check awesome projects](https://projects.innocentcharles.com/) with my fingerprints.
 	
 <!--### 📫 Where to find me-->
 - [Zindi Africa](https://zindi.africa/users/The_GOT) , [LinkedIn](https://www.linkedin.com/in/innocent-charles-329194214/) , [Portfolio](https://innocentcharles.com)
