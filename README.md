@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello, My name is Innocent Charles. 🤓 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 <p align="center">
-  I am 21 years old . A Mobile Developer , Back-End Engineer , Data Scientist , AI Developer . Having strong organizational , communication and management skills. Also a solid background in Computer Science, Mathematics and Statistics. I'm passionate about Artificial Intelligence, Big Data and Software Development to solve problems and implement excellence solutions. Keen to expand skills and knowledge and prepared to work in a variety
+  I am 21 years old . A Mobile Developer , Back-End Engineer , Data Scientist , AI Developer . Having strong organizational , communication and management skills. Also a solid background in Computer Science, Mathematics and Statistics. I'm passionate about technology to solve problems and implement excellence solutions. Keen to expand skills and knowledge and prepared to work in a variety
 of roles as required 💥 
 
 - Click [Here to check awesome projects](https://projects.innocentcharles.com/) with my fingerprints.
