@@ -1,8 +1,7 @@
 
 <h2 align="center">Hello, My name is Innocent Charles. 🤓 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 <p align="center">
-I am a younger technology enthusiastic having strong organizational , communication and management skills and also  a solid background in Software development , Artificial Intelligence and Mathematics. I'm passionate about technology to solve problems and implement excellence solutions. Keen to expand skills and knowledge and prepared to work in a variety
-of roles as required 💥 
+I am a younger tech entrepreneur and enthusiastic, having strong organizational, communication and management skills and also a solid background in Software development, Artificial Intelligence and Mathematics. I love to work with people and help them in their business by solving problems and make things happen . I am  keen to expand skills and prepared to work in a variety of roles as required 💥 
 
 - Click [Here to check awesome projects](https://projects.innocentcharles.com/) with my fingerprints.
 <!-- 	
