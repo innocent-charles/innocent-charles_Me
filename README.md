@@ -6,7 +6,7 @@ of roles as required 💥
 
 - Click [Here to check awesome projects](https://projects.innocentcharles.com/) with my fingerprints.
 	
-<!--### 📫 Where to find me-->
+###### Where to find me
 - [LinkedIn](https://www.linkedin.com/in/innocent-charles-329194214/) , [Personal website](https://innocentcharles.com)
 
 <!-- ![](https://komarev.com/ghpvc/?username=innocoder-official&color=blue) -->
