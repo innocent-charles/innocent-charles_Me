@@ -6,7 +6,7 @@ I am a younger tech entrepreneur and enthusiastic, having strong organizational,
 - Click [Here to check awesome projects](https://projects.innocentcharles.com/) with my fingerprints.
 <!-- 	
 ###### Where to find me -->
-- [LinkedIn](https://www.linkedin.com/in/innocent-charles-329194214/) , [Personal website](https://innocentcharles.com) , [DagHub Account](https://dagshub.com/innocoder-official)
+- [LinkedIn](https://www.linkedin.com/in/innocent-charles-329194214/) , [Personal website](https://innocentcharles.com) , [DAGsHub Account](https://dagshub.com/innocoder-official)
 
 <!-- ![](https://komarev.com/ghpvc/?username=innocoder-official&color=blue) -->
 <img align="left" src="https://img.shields.io/github/followers/innocoder-official?label=Followers&style=social" />
