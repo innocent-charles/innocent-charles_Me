@@ -4,6 +4,8 @@
 I am a younger tech entrepreneur and enthusiastic, having strong organizational, communication and management skills and also a solid background in Software development, Artificial Intelligence and Mathematics. I love to work with people and help them in their business by solving problems and make things happen . I am  keen to expand skills and prepared to work in a variety of roles as required. 
 
 - Click [Here to check awesome projects](https://projects.innocentcharles.com/) with my fingerprints.
+
+- Contributor of [OmdenaLore](https://omdena.com/omdenalore/) Library used in Data science.
 <!-- 	
 ###### Where to find me -->
 - [LinkedIn](https://www.linkedin.com/in/innocent-charles-329194214/) , [Personal website](https://innocentcharles.com) , [DAGsHub Account](https://dagshub.com/innocoder-official)
