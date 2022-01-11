@@ -8,7 +8,7 @@ I am a younger tech entrepreneur and enthusiastic, having strong organizational,
 - Contributor of [OmdenaLore](https://omdena.com/omdenalore/) Library used in Data science.
 <!-- 	
 ###### Where to find me -->
-- [LinkedIn](https://www.linkedin.com/in/innocent-charles-329194214/) , [Personal website](https://innocentcharles.com) , [DAGsHub Account](https://dagshub.com/innocoder-official)
+- Follow me on [LinkedIn](https://www.linkedin.com/in/innocent-charles-329194214/) , [Personal website](https://innocentcharles.com) , [DAGsHub Account](https://dagshub.com/innocoder-official)
 
 <!-- ![](https://komarev.com/ghpvc/?username=innocoder-official&color=blue) -->
 <img align="left" src="https://img.shields.io/github/followers/innocoder-official?label=Followers&style=social" />
