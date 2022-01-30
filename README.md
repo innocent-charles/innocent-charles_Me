@@ -1,4 +1,6 @@
 
+
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=innocoder-official&style=--border-radius:0px&branding=false&width=700"/>
 <h2 align="center">Hello, My name is Innocent Charles. 🤓 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 <p align="center">
 I am a young , technopreneur and enthusiastic , with proven ability to organize, communicate and manage , also have  a solid background in Software development , Artificial Intelligence and Mathematics (Software Engineering and Data Science) . I love to work with people and help them in their business by solving problems and make things happen . I am  keen to expand skills and prepared to work in a variety of roles as required. 
