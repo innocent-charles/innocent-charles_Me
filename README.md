@@ -8,9 +8,11 @@ I am a young , technopreneur and cognitive sciencitist , with proven ability to 
 - Click [Here to check awesome projects](https://projects.innocentcharles.com/) with my fingerprints.
 
 - Contributor of [OmdenaLore](https://omdena.com/omdenalore/) Library used in Data science.
+
+- Read my awesome tech articles [Here](https://blog.neurotech.africa/author/innocent_charles/) in ML & AI.
 <!-- 	
 ###### Where to find me -->
-- Follow me on [LinkedIn](https://www.linkedin.com/in/innocent-charles-329194214/) , [Personal website](https://innocentcharles.com) , [Tech Blogs](https://blog.neurotech.africa/author/innocent_charles/) , [DAGsHub Account](https://dagshub.com/innocoder-official) , [Coder Ranking](https://profile.codersrank.io/user/innocoder-official) , [Kaggle](https://www.kaggle.com/innocentcharles)
+- Follow me on [LinkedIn](https://www.linkedin.com/in/innocent-charles-329194214/) , [Personal website](https://innocentcharles.com) , [DAGsHub Account](https://dagshub.com/innocoder-official) , [Coder Ranking](https://profile.codersrank.io/user/innocoder-official) , [Kaggle](https://www.kaggle.com/innocentcharles)
 
 <!-- ![](https://komarev.com/ghpvc/?username=innocoder-official&color=blue) -->
 <img align="left" src="https://img.shields.io/github/followers/innocoder-official?label=Followers&style=social" />
