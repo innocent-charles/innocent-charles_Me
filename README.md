@@ -9,7 +9,8 @@ I am a young , technopreneur and cognitive scientist , with proven ability to or
 
 - Contributor of [OmdenaLore](https://omdena.com/omdenalore/) Library used in Data science.
 
-- Read my awesome tech articles [Here](https://blog.neurotech.africa/author/innocent_charles/) in ML & AI.
+- Read my below awesome tech articles in ML & AI.
+  - [Get started with Topic Modelling Using GenSim](https://blog.neurotech.africa/author/innocent_charles/)
 <!-- 	
 ###### Where to find me -->
 - Follow me on [LinkedIn](https://www.linkedin.com/in/innocent-charles-329194214/) , [Personal website](https://innocentcharles.com) , [DAGsHub Account](https://dagshub.com/innocoder-official) , [Coder Ranking](https://profile.codersrank.io/user/innocoder-official) , [Kaggle](https://www.kaggle.com/innocentcharles)
