@@ -12,7 +12,7 @@ I am a young , technopreneur and cognitive scientist , with proven ability to or
 - Read my below awesome tech articles in ML & AI.
   - [Get started with Topic Modelling Using GenSim](https://blog.neurotech.africa/get-started-with-topic-modelling-using-gensim-in-nlp/)
   - [How can artificial intelligence help to improve your business operations](https://ipfsoftwares.com/blogs/how-artificial-intelligence-can-help-improve-your-business-operations)
-  - [How can artificial intelligence help to improve your business operations](https://ipfsoftwares.com/blogs/how-artificial-intelligence-can-help-improve-your-business-operations)
+  - [Custom Swahili Named Entity Recognition using Spacy Library](https://blog.neurotech.africa/custom-swahili-named-entity-recognition-using-spacy/)
 <!-- 	
 ###### Where to find me -->
 - Follow me on [LinkedIn](https://www.linkedin.com/in/innocent-charles-329194214/) , [Personal website](https://innocentcharles.com) , [DAGsHub Account](https://dagshub.com/innocoder-official) , [Coder Ranking](https://profile.codersrank.io/user/innocoder-official) , [Kaggle](https://www.kaggle.com/innocentcharles)
