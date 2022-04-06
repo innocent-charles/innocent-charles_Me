@@ -15,7 +15,7 @@ I am a young , technopreneur and cognitive scientist , with proven ability to or
   - [Custom Swahili Named Entity Recognition using Spacy Library](https://blog.neurotech.africa/custom-swahili-named-entity-recognition-using-spacy/)
 <!-- 	
 ###### Where to find me -->
-- Follow me on [LinkedIn](https://www.linkedin.com/in/innocent-charles-329194214/) , [DAGsHub Account](https://dagshub.com/innocoder-official) , [Hugging Faces](https://huggingface.co/innocentcharles) , [Coder Ranking](https://profile.codersrank.io/user/innocoder-official) , [Kaggle](https://www.kaggle.com/innocentcharles)
+- Follow me on [LinkedIn](https://www.linkedin.com/in/innocent-charles-329194214/) , [DAGsHub Account](https://dagshub.com/innocoder-official) , [Hugging Faces](https://huggingface.co/innocentcharles) , [Coder Ranking](https://profile.codersrank.io/user/innocoder-official) 
 
 <!-- ![](https://komarev.com/ghpvc/?username=innocoder-official&color=blue) -->
 <img align="left" src="https://img.shields.io/github/followers/innocoder-official?label=Followers&style=social" />
