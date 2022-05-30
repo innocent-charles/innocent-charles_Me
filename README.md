@@ -3,7 +3,9 @@
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=innocoder-official&style=--border-radius:0px&branding=false&width=700"/> -->
 <h2 align="center">Hello, My name is Innocent Charles. 🤓 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 <p align="center">
-A ingenious Cognitive Scientist, and Techno-Optimist based in Africa. I have a solid background in Software development and grasp knowledge in Artificial Intelligence, BigData, and Mathematics (Software Engineering and Data Science) and other fields of Cognition Science . 
+An ingenious Cognitive Scientist, and Techno-Optimist based in Africa . I have background in Computer Science (Artificial Intelligence, BigData, Data science and Mathematics ) , Software Engineering and other fields of Cognitive Science . 
+
+I have curious mind about People , technology , intelligence and data . My all-time committed mission is on how I can help build a better Africa and world in general for everyone and the next generations. . 
  
 
 - Click [Here to check awesome projects](https://projects.innocentcharles.com/) with my fingerprints.
