@@ -6,7 +6,7 @@
 An ingenious Cognitive Scientist, and 4IR Techno-Optimist based in Africa . I have background in Computer Science (Artificial Intelligence, BigData, Data science and Mathematics ) , Software Engineering and other fields of Cognitive Science .I have curious mind about People , technology , intelligence and data . My all-time committed mission is on how I can help build a better Africa and world in general for everyone and the next generations.
  
 
-- Click [Here to check awesome projects](https://projects.innocentcharles.com/) with my fingerprints.
+- Click [Here to check awesome projects](https://www.innocentcharles.com/projects/) with my fingerprints.
 
 - Contributor of [OmdenaLore](https://omdena.com/omdenalore/) Library used in Data science.
 
